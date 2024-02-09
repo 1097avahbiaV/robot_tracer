@@ -4,7 +4,7 @@ This is a final project for the course CSCI 5551, it is merely for public displa
 ### project description
 This is a simplistic take on developing a robot that is able to follow a given path drawn on a digital canvas provided to a user. Hypothetically, the user should be able to draw complex and convoluted paths, and irrespective of what is provided, the robot shall chart out the shortest path of the complex path and move to a marked destination, from a marked starting point.
 
-the apth generation is using a combination of defining a closed space area and appplying the RRT algorothm, in an effort to generte optimized paths quickly. There are far mroe efficient approaches to this that I will take up and develop further as an update to this project.
+the path generation is using a combination of defining a closed space area and appplying the RRT algorothm, in an effort to generate optimized paths quickly. There are far more efficient approaches to this that I will take up and develop further as an update to this project.
 
 Albeit the simple application, there is not enough open source exposure from what I had searched for at the time. Hence I took a simple taskk of developing a simulation to reflect this purpose.
 
