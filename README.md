@@ -11,10 +11,10 @@ Albeit the simple application, there is not enough open source exposure from wha
 
 ### contributions
 
-My key contributions to this project revolved around developing the simulated world you run this robot in, building the robot model on Gazebo, establishing the ROS environemnt and package, and writing the movement script, integrating the output from the digital canvas to a defined movement path in ROS. I am found [here] <a href="https://www.linkedin.com/in/vaibhava-krishna-devulapalli">here</a>
+My key contributions to this project revolved around developing the simulated world you run this robot in, building the robot model on Gazebo, establishing the ROS environemnt and package, and writing the movement script, integrating the output from the digital canvas to a defined movement path in ROS. I am found <a href="https://www.linkedin.com/in/vaibhava-krishna-devulapalli">here</a>
 
 
-The contributors to this project are [Rushikesh Zende] <a href="https://www.linkedin.com/in/rushikesh-zende-43077a131">Rushikesh Zende</a> and Rahul Autade.
+The contributors to this project are <a href="https://www.linkedin.com/in/rushikesh-zende-43077a131">Rushikesh Zende</a> and Rahul Autade.
 
 
 ### credits
