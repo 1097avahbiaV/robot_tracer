@@ -16,6 +16,18 @@ My key contributions to this project revolved around developing the simulated wo
 
 The contributors to this project are <a href="https://www.linkedin.com/in/rushikesh-zende-43077a131">Rushikesh Zende</a> and Rahul Autade.
 
+### running of the project
+
+You can take this repository and download it onto your system.
+
+You reqiore a working setup of a ROS Environment on your system, if you do not have one, please refer to the installatin of ROS 1 onto your system.
+1. launching ROS master using the command `roscore`
+2. please move into your ros workspace
+3. use `catkin_make` and build all the repositories
+4. source the setup file present within your devel folder of the workspace
+5. launch the world file using the command `roslaunch ros_rspository name irs_project.launch`
+6. open a new terminal and run `python3 trial.py`
+
 
 ### credits
 
